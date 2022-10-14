@@ -39,26 +39,22 @@ Supervised machine learning is a process that uses a dataset to train a model to
   - (6) EasyEnsambleClassifier algorithm: 0.94
   
   ### RandomOversampler Algorithm
-  ![random_oversampling](https://user-images.githubusercontent.com/106559768/195912383-8a77dca2-3750-449e-9d8f-cc1de6057f84.jpg)
-  
+  <img width="770" alt="random_oversampling" src="https://user-images.githubusercontent.com/106559768/195916792-9cc8479b-0263-4a2b-b240-227b9c57f507.png">
+ 
   ### (2) SMOTE algorithm
-  <img width="741" alt="smote_oversampling" src="https://user-images.githubusercontent.com/106559768/195912431-a60fe1ff-7e47-42b8-8ee5-34aef3d2a975.png">
-  
+  <img width="770" alt="smote_oversampling" src="https://user-images.githubusercontent.com/106559768/195916806-6751b6ff-04e4-4af7-a808-72c7f25136cf.png">
+
   ### (3) ClusterCentroids algorithm
-  <img width="773" alt="undersampling" src="https://user-images.githubusercontent.com/106559768/195913170-3f22f9ec-2054-490b-b8b6-ee175f42ecb6.png">
+  <img width="770" alt="undersampling" src="https://user-images.githubusercontent.com/106559768/195916837-d5c8f1cc-f038-49bf-80a4-ee3ff050bf91.png">
 
   ### (4) SMOTEEN algorithm
-  <img width="770" alt="combo_over_under_sampling" src="https://user-images.githubusercontent.com/106559768/195913212-d833b711-32ff-4bf2-bec9-9f16eeaf7043.png">
-
-  
+  <img width="768" alt="smoteenn_over_under_sampling" src="https://user-images.githubusercontent.com/106559768/195916856-7ee3f551-e84a-4a6a-bf79-6e0a3901c883.png">
   
   ### (5) BalancedRandomForestClassifier algorithm
-  <img width="749" alt="balanced_random_forest" src="https://user-images.githubusercontent.com/106559768/195913249-323fa4d0-4f7c-449e-8619-c2957a0bc725.png">
-
-  
+  <img width="768" alt="bal_random_forest" src="https://user-images.githubusercontent.com/106559768/195916869-03a5bf40-21cc-4fca-ad89-9b91be8597f2.png">
   
   ### (6) EasyEnsambleClassifier algorithm
-<img width="739" alt="easy_ensemble_classifier" src="https://user-images.githubusercontent.com/106559768/195913264-c50eac58-d0c0-4747-8646-f14305fab33b.png">
+  <img width="769" alt="easy_ensamble" src="https://user-images.githubusercontent.com/106559768/195916895-8c09f57c-df2d-451c-a2f4-4471e9ae5726.png">
 
 
 
